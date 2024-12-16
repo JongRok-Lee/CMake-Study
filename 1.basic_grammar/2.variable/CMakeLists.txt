@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.11)
-project(2.Variable)
+project(2.VARIABLE)
 
 message(STATUS "")
 message(STATUS "Started all process in ${PROJECT_NAME} CMakeLists.txt.")
